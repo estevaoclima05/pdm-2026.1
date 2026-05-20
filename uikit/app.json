@@ -2,6 +2,7 @@
   "expo": {
     "name": "uikit",
     "slug": "uikit",
+    "owner": "pdm-2026-01",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
